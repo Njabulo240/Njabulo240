@@ -1,7 +1,10 @@
 <h2 align="left">Hi 👋, I'm Njabulo Mamba</h2>
 <h4 align="left">I'm a C# Developer | Fullstack Developer | Passionate about Technology, Coding, and Continuous Learning</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NjabuloMamba&label=Profile%20views&color=0e75b6&style=flat" alt="NjabuloMamba" /> </p>
-📫 You can reach me at njabulomamba@gmail.com
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Njabulo240&label=Profile%20views&color=0e75b6&style=flat" alt="Njabulo240" /> </p>
+
+- 📫 You can reach me at njabulomamba@gmail.com
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
@@ -17,6 +20,9 @@
   <a href="https://stripe.com/" target="_blank"> <img src="https://stripe.com/img/v3/home/twitter.png" alt="stripe" width="40" height="40"/> </a>
   <a href="https://www.twilio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="twilio" width="40" height="40"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NjabuloMamba&show_icons=true&locale=en&layout=compact" alt="NjabuloMamba" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NjabuloMamba&show_icons=true&locale=en" alt="NjabuloMamba" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NjabuloMamba&" alt="NjabuloMamba" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Njabulo240&show_icons=true&locale=en&layout=compact" alt="Njabulo240" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Njabulo240&show_icons=true&locale=en" alt="Njabulo240" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Njabulo240&" alt="Njabulo240" /></p>
