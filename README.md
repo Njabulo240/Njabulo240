@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Njabulo Mamba</h2>
-<h4 align="left">I'm a C# Developer | Fullstack Developer | Passionate about Technology, Coding, and Continuous Learning</h4>
+<h4 align="left">I'm a Software Developer Passionate about Technology, Coding, and Continuous Learning</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Njabulo240&label=Profile%20views&color=0e75b6&style=flat" alt="Njabulo240" /> </p>
 
