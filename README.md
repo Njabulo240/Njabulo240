@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Njabulo240&label=Profile%20views&color=0e75b6&style=flat" alt="Njabulo240" /> </p>
 
-- 📫 You can reach me at njabulomamba@gmail.com
+- 📫 You can reach me at njebzeliny@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -16,8 +16,6 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/> </a>
-  <a href="https://www.paypal.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/paypal/paypal-tile.svg" alt="paypal" width="40" height="40"/> </a>
-  <a href="https://stripe.com/" target="_blank"> <img src="https://stripe.com/img/v3/home/twitter.png" alt="stripe" width="40" height="40"/> </a>
   <a href="https://www.twilio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="twilio" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> </a>
