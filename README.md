@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Njabulo240&label=Profile%20views&color=0e75b6&style=flat" alt="Njabulo240" /> </p>
 
 - 📫 You can reach me at njebzeliny@gmail.com
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/njabulo-mamba-531754227) and [Facebook](https://www.facebook.com/njabulonjebs.mamba)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
